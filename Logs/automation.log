@@ -1,0 +1,668 @@
+2024-10-25 10:51:51,644 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 10:51:53,382 - root - INFO - ******Test_001_Login***********
+2024-10-25 10:51:53,382 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 10:52:01,796 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 10:52:02,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 10:52:10,455 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 10:54:01,081 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 10:54:02,087 - root - INFO - ******Test_001_Login***********
+2024-10-25 10:54:02,088 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 10:54:09,591 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 10:54:10,211 - root - INFO - ******Verifying Login teste***********
+2024-10-25 10:54:18,794 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 10:55:58,728 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 10:56:00,080 - root - INFO - ******Test_001_Login***********
+2024-10-25 10:56:00,080 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 10:56:07,500 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 10:56:08,100 - root - INFO - ******Verifying Login teste***********
+2024-10-25 10:56:16,484 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 11:51:27,022 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 11:51:28,095 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 11:51:28,095 - root - INFO - ******Verifying Login test***********
+2024-10-25 11:52:16,348 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 11:52:17,380 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 11:52:17,380 - root - INFO - ******Verifying Login test***********
+2024-10-25 11:53:40,454 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 11:53:41,449 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 11:53:41,450 - root - INFO - ******Verifying Login test***********
+2024-10-25 11:57:18,298 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 11:57:19,309 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 11:57:19,309 - root - INFO - ******Verifying Login test***********
+2024-10-25 11:58:31,522 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 11:58:32,520 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 11:58:32,520 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:01:44,049 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:01:45,045 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:01:45,046 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:06:58,270 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:06:59,268 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:06:59,268 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:07:55,888 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:07:56,927 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:07:56,927 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:29:27,004 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:29:27,987 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:29:27,988 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:31:46,493 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:31:47,558 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:31:47,559 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:36:08,383 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:36:08,384 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:36:53,729 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:36:53,730 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:37:36,001 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:37:36,001 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:42:05,086 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:42:05,086 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:42:53,817 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:42:53,820 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:43:30,032 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:43:30,032 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:44:15,948 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:44:15,948 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:44:16,207 - root - INFO - Test
+2024-10-25 12:46:15,355 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:46:16,455 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:46:16,455 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:46:21,857 - root - INFO - Test
+2024-10-25 12:48:45,507 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:48:46,544 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:48:46,544 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:48:51,961 - root - INFO - Test
+2024-10-25 12:50:28,167 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:50:29,211 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:50:29,211 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:50:34,678 - root - INFO - Test
+2024-10-25 12:54:18,245 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:54:19,951 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:54:19,951 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:54:25,557 - root - INFO - Test
+2024-10-25 12:55:52,665 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 12:55:53,715 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 12:55:53,715 - root - INFO - ******Verifying Login test***********
+2024-10-25 12:55:59,216 - root - INFO - Test
+2024-10-25 12:56:17,535 - root - INFO - *****Passed*****
+2024-10-25 12:56:19,645 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:08:02,366 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:08:03,421 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:08:03,421 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:08:08,896 - root - INFO - Test
+2024-10-25 13:08:14,462 - root - INFO - *****Passed*****
+2024-10-25 13:08:14,940 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:10:08,417 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:10:09,441 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:10:09,441 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:10:14,821 - root - INFO - Test
+2024-10-25 13:10:20,277 - root - INFO - *****Passed*****
+2024-10-25 13:10:20,740 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:13:59,107 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:14:00,147 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:14:00,147 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:14:05,678 - root - INFO - Test
+2024-10-25 13:14:11,127 - root - INFO - *****Passed*****
+2024-10-25 13:14:11,616 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:14:20,865 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:14:21,875 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:14:21,876 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:14:27,247 - root - INFO - Test
+2024-10-25 13:14:32,739 - root - INFO - *****Passed*****
+2024-10-25 13:14:33,216 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:14:50,961 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:14:52,057 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:14:52,058 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:14:57,484 - root - INFO - Test
+2024-10-25 13:15:03,440 - root - INFO - *****Passed*****
+2024-10-25 13:15:03,982 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:20:10,225 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:22:47,457 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:22:48,452 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:22:48,452 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:22:53,862 - root - INFO - Test
+2024-10-25 13:26:55,977 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:26:57,007 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:26:57,007 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:27:02,546 - root - INFO - Test
+2024-10-25 13:28:03,114 - root - INFO - *****Passed*****
+2024-10-25 13:28:03,950 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:29:02,413 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:29:03,451 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:29:03,451 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:29:08,930 - root - INFO - Test
+2024-10-25 13:29:33,572 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:29:34,580 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:29:34,580 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:29:40,000 - root - INFO - Test
+2024-10-25 13:32:07,952 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:32:08,945 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:32:08,945 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:32:14,325 - root - INFO - Test
+2024-10-25 13:32:29,275 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:32:30,291 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:32:30,291 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:32:35,729 - root - INFO - Test
+2024-10-25 13:33:00,733 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:33:01,794 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:33:01,794 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:33:07,201 - root - INFO - Test
+2024-10-25 13:33:13,365 - root - INFO - *****Passed*****
+2024-10-25 13:33:13,911 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:39:42,473 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:39:43,510 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:39:43,511 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:39:48,877 - root - INFO - Test
+2024-10-25 13:39:54,434 - root - INFO - *****Passed*****
+2024-10-25 13:39:54,829 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:40:21,661 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:40:22,697 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:40:22,697 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:40:28,160 - root - INFO - Test
+2024-10-25 13:43:40,251 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:43:40,251 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:43:45,545 - root - INFO - Test
+2024-10-25 13:44:35,032 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:44:36,013 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:44:36,013 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:44:41,338 - root - INFO - Test
+2024-10-25 13:44:46,812 - root - INFO - *****Passed*****
+2024-10-25 13:44:47,283 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:45:59,053 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:45:59,928 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:45:59,928 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:46:05,347 - root - INFO - Test
+2024-10-25 13:46:10,964 - root - INFO - *****Passed*****
+2024-10-25 13:46:11,432 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:48:21,738 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:48:22,731 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:48:22,732 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:48:28,130 - root - INFO - Test
+2024-10-25 13:48:38,634 - root - INFO - *****Passed*****
+2024-10-25 13:48:49,359 - root - INFO - *****Passed*****
+2024-10-25 13:50:15,531 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 13:50:16,513 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 13:50:16,513 - root - INFO - ******Verifying Login test***********
+2024-10-25 13:50:21,954 - root - INFO - Test
+2024-10-25 13:50:32,539 - root - INFO - *****Passed*****
+2024-10-25 13:50:43,311 - root - INFO - *****Passed*****
+2024-10-25 13:50:53,588 - root - INFO - *****Passed*****
+2024-10-25 13:51:03,839 - root - INFO - *****Passed*****
+2024-10-25 13:51:03,839 - root - INFO - *****Login DDT test passed*****
+2024-10-25 13:51:03,903 - root - INFO - ****End of Login DDT Test
+2024-10-25 13:51:03,904 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 14:45:13,221 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:45:14,239 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:46:29,752 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:46:30,741 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:46:41,428 - root - INFO - ************* Login succesful **********
+2024-10-25 14:46:41,428 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:47:13,715 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:47:14,710 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:47:20,480 - root - INFO - ************* Login succesful **********
+2024-10-25 14:47:20,480 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:50:30,831 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:50:31,812 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:50:38,157 - root - INFO - ************* Login succesful **********
+2024-10-25 14:50:38,157 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:53:53,160 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:53:54,129 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:54:00,149 - root - INFO - ************* Login succesful **********
+2024-10-25 14:54:00,150 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:54:38,469 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:54:39,444 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:54:45,583 - root - INFO - ************* Login succesful **********
+2024-10-25 14:54:45,583 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:56:05,959 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:56:06,931 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:56:13,327 - root - INFO - ************* Login succesful **********
+2024-10-25 14:56:13,327 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 14:56:48,932 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:56:49,902 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:57:07,423 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 14:57:08,404 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 14:57:14,483 - root - INFO - ************* Login succesful **********
+2024-10-25 14:57:14,484 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 15:00:06,179 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 15:00:07,178 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 15:00:13,124 - root - INFO - ************* Login succesful **********
+2024-10-25 15:00:13,125 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 15:00:21,148 - root - INFO - ************* Providing customer info **********
+2024-10-25 15:22:16,216 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 15:22:17,228 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 15:22:23,199 - root - INFO - ************* Login succesful **********
+2024-10-25 15:22:23,199 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 15:22:30,286 - root - INFO - ************* Providing customer info **********
+2024-10-25 15:22:31,192 - root - INFO - ************* Saving customer info **********
+2024-10-25 15:22:31,192 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 15:22:31,493 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 15:22:31,559 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 16:34:36,139 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 16:34:37,156 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 16:34:43,222 - root - INFO - ************* Login succesful **********
+2024-10-25 16:34:43,222 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 16:34:50,379 - root - INFO - ************* Providing customer info **********
+2024-10-25 16:34:51,390 - root - INFO - ************* Saving customer info **********
+2024-10-25 16:34:51,390 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 16:34:51,676 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 16:34:51,780 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 16:35:07,389 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 16:35:08,353 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 16:35:14,232 - root - INFO - ************* Login succesful **********
+2024-10-25 16:35:14,232 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 16:35:21,663 - root - INFO - ************* Providing customer info **********
+2024-10-25 17:28:13,819 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:28:14,913 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:28:54,753 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:28:55,759 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:29:10,517 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:29:11,507 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:33:50,669 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:33:51,653 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:33:57,455 - root - INFO - ************* Login succesful **********
+2024-10-25 17:33:57,455 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 17:34:58,528 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:34:59,528 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:35:05,504 - root - INFO - ************* Login succesful **********
+2024-10-25 17:35:05,504 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 17:35:12,582 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 17:35:17,821 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 17:36:20,975 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:36:21,952 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 17:36:28,175 - root - INFO - ************* Login succesful **********
+2024-10-25 17:36:28,175 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 17:36:34,736 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 17:36:39,905 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 17:40:14,949 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:40:16,004 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 17:40:22,559 - root - INFO - ************* Login succesful **********
+2024-10-25 17:40:22,559 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 17:40:29,331 - root - INFO - ************* searching customer by Name **********
+2024-10-25 17:41:32,431 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:41:33,462 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 17:41:39,341 - root - INFO - ************* Login succesful **********
+2024-10-25 17:41:39,341 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 17:41:46,169 - root - INFO - ************* searching customer by Name **********
+2024-10-25 17:44:30,346 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 17:44:31,271 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 17:44:37,210 - root - INFO - ************* Login succesful **********
+2024-10-25 17:44:37,210 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 17:44:44,076 - root - INFO - ************* searching customer by Name **********
+2024-10-25 17:44:49,309 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 18:31:30,719 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:31:30,719 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:31:30,719 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:31:30,719 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:31:30,719 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:31:31,761 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:31:31,761 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:31:31,761 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:31:31,761 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:31:31,761 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:31:37,571 - root - INFO - ************* Login succesful **********
+2024-10-25 18:31:37,571 - root - INFO - ************* Login succesful **********
+2024-10-25 18:31:37,571 - root - INFO - ************* Login succesful **********
+2024-10-25 18:31:37,571 - root - INFO - ************* Login succesful **********
+2024-10-25 18:31:37,571 - root - INFO - ************* Login succesful **********
+2024-10-25 18:31:37,572 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:31:37,572 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:31:37,572 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:31:37,572 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:31:37,572 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:31:44,764 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:31:44,764 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:31:44,764 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:31:44,764 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:31:44,764 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:31:45,813 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:31:45,813 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:31:45,813 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:31:45,813 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:31:45,813 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:33:41,244 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:33:41,244 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:33:41,244 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:33:41,244 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:33:41,244 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:33:42,217 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:33:42,217 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:33:42,217 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:33:42,217 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:33:42,217 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:33:48,014 - root - INFO - ************* Login succesful **********
+2024-10-25 18:33:48,014 - root - INFO - ************* Login succesful **********
+2024-10-25 18:33:48,014 - root - INFO - ************* Login succesful **********
+2024-10-25 18:33:48,014 - root - INFO - ************* Login succesful **********
+2024-10-25 18:33:48,014 - root - INFO - ************* Login succesful **********
+2024-10-25 18:33:48,015 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:33:48,015 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:33:48,015 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:33:48,015 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:33:48,015 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:33:54,995 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:33:54,995 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:33:54,995 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:33:54,995 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:33:54,995 - root - INFO - ************* Providing customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ************* Saving customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ************* Saving customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ************* Saving customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ************* Saving customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ************* Saving customer info **********
+2024-10-25 18:33:55,892 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 18:33:55,892 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 18:33:55,892 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 18:33:55,892 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 18:33:55,892 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 18:33:56,204 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 18:33:56,204 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 18:33:56,204 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 18:33:56,204 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 18:33:56,204 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 18:33:56,267 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 18:33:56,267 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 18:33:56,267 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 18:33:56,267 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 18:33:56,267 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 18:33:56,864 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:33:56,864 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:33:56,864 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:33:56,864 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:33:56,864 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:34:04,838 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:34:04,838 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:34:04,838 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:34:04,838 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:34:04,838 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:37:51,699 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:37:51,699 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:37:51,699 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:37:51,699 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:37:51,699 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 18:37:52,764 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:37:52,764 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:37:52,764 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:37:52,764 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:37:52,764 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 18:37:58,814 - root - INFO - ************* Login succesful **********
+2024-10-25 18:37:58,814 - root - INFO - ************* Login succesful **********
+2024-10-25 18:37:58,814 - root - INFO - ************* Login succesful **********
+2024-10-25 18:37:58,814 - root - INFO - ************* Login succesful **********
+2024-10-25 18:37:58,814 - root - INFO - ************* Login succesful **********
+2024-10-25 18:37:58,814 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:37:58,814 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:37:58,814 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:37:58,814 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:37:58,814 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 18:38:03,373 - root - INFO - ******Test_001_Login***********
+2024-10-25 18:38:03,373 - root - INFO - ******Test_001_Login***********
+2024-10-25 18:38:03,373 - root - INFO - ******Test_001_Login***********
+2024-10-25 18:38:03,373 - root - INFO - ******Test_001_Login***********
+2024-10-25 18:38:03,373 - root - INFO - ******Test_001_Login***********
+2024-10-25 18:38:03,374 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 18:38:03,374 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 18:38:03,374 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 18:38:03,374 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 18:38:03,374 - root - INFO - ******** Verifying Home Page Title **********
+2024-10-25 18:38:10,907 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 18:38:10,907 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 18:38:10,907 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 18:38:10,907 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 18:38:10,907 - root - INFO - *********Home page title test PASSED*********
+2024-10-25 18:38:11,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:38:11,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:38:11,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:38:11,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:38:11,483 - root - INFO - ******Verifying Login teste***********
+2024-10-25 18:38:19,739 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:38:19,739 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:38:19,739 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:38:19,739 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:38:19,739 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 18:38:20,386 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 18:38:20,386 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 18:38:20,386 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 18:38:20,386 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 18:38:20,386 - root - INFO - *******Test_002_DDT_Login***********
+2024-10-25 18:38:20,386 - root - INFO - ******Verifying Login test***********
+2024-10-25 18:38:20,386 - root - INFO - ******Verifying Login test***********
+2024-10-25 18:38:20,386 - root - INFO - ******Verifying Login test***********
+2024-10-25 18:38:20,386 - root - INFO - ******Verifying Login test***********
+2024-10-25 18:38:20,386 - root - INFO - ******Verifying Login test***********
+2024-10-25 18:38:25,736 - root - INFO - Test
+2024-10-25 18:38:25,736 - root - INFO - Test
+2024-10-25 18:38:25,736 - root - INFO - Test
+2024-10-25 18:38:25,736 - root - INFO - Test
+2024-10-25 18:38:25,736 - root - INFO - Test
+2024-10-25 18:38:36,615 - root - INFO - *****Passed*****
+2024-10-25 18:38:36,615 - root - INFO - *****Passed*****
+2024-10-25 18:38:36,615 - root - INFO - *****Passed*****
+2024-10-25 18:38:36,615 - root - INFO - *****Passed*****
+2024-10-25 18:38:36,615 - root - INFO - *****Passed*****
+2024-10-25 18:38:47,339 - root - INFO - *****Passed*****
+2024-10-25 18:38:47,339 - root - INFO - *****Passed*****
+2024-10-25 18:38:47,339 - root - INFO - *****Passed*****
+2024-10-25 18:38:47,339 - root - INFO - *****Passed*****
+2024-10-25 18:38:47,339 - root - INFO - *****Passed*****
+2024-10-25 18:38:57,593 - root - INFO - *****Passed*****
+2024-10-25 18:38:57,593 - root - INFO - *****Passed*****
+2024-10-25 18:38:57,593 - root - INFO - *****Passed*****
+2024-10-25 18:38:57,593 - root - INFO - *****Passed*****
+2024-10-25 18:38:57,593 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Login DDT test passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Login DDT test passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Login DDT test passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Login DDT test passed*****
+2024-10-25 18:39:07,861 - root - INFO - *****Login DDT test passed*****
+2024-10-25 18:39:07,926 - root - INFO - ****End of Login DDT Test
+2024-10-25 18:39:07,926 - root - INFO - ****End of Login DDT Test
+2024-10-25 18:39:07,926 - root - INFO - ****End of Login DDT Test
+2024-10-25 18:39:07,926 - root - INFO - ****End of Login DDT Test
+2024-10-25 18:39:07,926 - root - INFO - ****End of Login DDT Test
+2024-10-25 18:39:07,927 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 18:39:07,927 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 18:39:07,927 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 18:39:07,927 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 18:39:07,927 - root - INFO - ***********Completed TC_LoginDDT_002*************
+2024-10-25 18:39:08,512 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 18:39:08,512 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 18:39:08,512 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 18:39:08,512 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 18:39:08,512 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2024-10-25 18:39:14,545 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:14,545 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:14,545 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:14,545 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:14,545 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:14,545 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 18:39:14,545 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 18:39:14,545 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 18:39:14,545 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 18:39:14,545 - root - INFO - ******* Starting Search Customer By Email **********
+2024-10-25 18:39:21,690 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 18:39:21,690 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 18:39:21,690 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 18:39:21,690 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 18:39:21,690 - root - INFO - ************* searching customer by emailID **********
+2024-10-25 18:39:26,861 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 18:39:26,861 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 18:39:26,861 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 18:39:26,861 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 18:39:26,861 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2024-10-25 18:39:27,506 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 18:39:27,506 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 18:39:27,506 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 18:39:27,506 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 18:39:27,506 - root - INFO - ************* SearchCustomerByName_005 **********
+2024-10-25 18:39:33,275 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:33,275 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:33,275 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:33,275 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:33,275 - root - INFO - ************* Login succesful **********
+2024-10-25 18:39:33,276 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 18:39:33,276 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 18:39:33,276 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 18:39:33,276 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 18:39:33,276 - root - INFO - ******* Starting Search Customer By Name **********
+2024-10-25 18:39:40,138 - root - INFO - ************* searching customer by Name **********
+2024-10-25 18:39:40,138 - root - INFO - ************* searching customer by Name **********
+2024-10-25 18:39:40,138 - root - INFO - ************* searching customer by Name **********
+2024-10-25 18:39:40,138 - root - INFO - ************* searching customer by Name **********
+2024-10-25 18:39:40,138 - root - INFO - ************* searching customer by Name **********
+2024-10-25 18:39:45,365 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 18:39:45,365 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 18:39:45,365 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 18:39:45,365 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 18:39:45,365 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2024-10-25 19:01:26,599 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 19:01:26,599 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 19:01:26,599 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 19:01:26,599 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 19:01:26,599 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-25 19:01:27,608 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 19:01:27,608 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 19:01:27,608 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 19:01:27,608 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 19:01:27,608 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-25 19:01:46,315 - root - INFO - ************* Login succesful **********
+2024-10-25 19:01:46,315 - root - INFO - ************* Login succesful **********
+2024-10-25 19:01:46,315 - root - INFO - ************* Login succesful **********
+2024-10-25 19:01:46,315 - root - INFO - ************* Login succesful **********
+2024-10-25 19:01:46,315 - root - INFO - ************* Login succesful **********
+2024-10-25 19:01:46,315 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 19:01:46,315 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 19:01:46,315 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 19:01:46,315 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 19:01:46,315 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-25 19:01:53,094 - root - INFO - ************* Providing customer info **********
+2024-10-25 19:01:53,094 - root - INFO - ************* Providing customer info **********
+2024-10-25 19:01:53,094 - root - INFO - ************* Providing customer info **********
+2024-10-25 19:01:53,094 - root - INFO - ************* Providing customer info **********
+2024-10-25 19:01:53,094 - root - INFO - ************* Providing customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ************* Saving customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ************* Saving customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ************* Saving customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ************* Saving customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ************* Saving customer info **********
+2024-10-25 19:01:53,983 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 19:01:53,983 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 19:01:53,983 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 19:01:53,983 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 19:01:53,983 - root - INFO - ********* Add customer validation started *****************
+2024-10-25 19:01:54,278 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 19:01:54,278 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 19:01:54,278 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 19:01:54,278 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 19:01:54,278 - root - INFO - ********* Add customer Test Passed *********
+2024-10-25 19:01:54,333 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 19:01:54,333 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 19:01:54,333 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 19:01:54,333 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 19:01:54,333 - root - INFO - ******* Ending Add customer test **********
+2024-10-25 19:01:54,932 - root - INFO - ******Verifying Login teste***********
+2024-10-25 19:01:54,932 - root - INFO - ******Verifying Login teste***********
+2024-10-25 19:01:54,932 - root - INFO - ******Verifying Login teste***********
+2024-10-25 19:01:54,932 - root - INFO - ******Verifying Login teste***********
+2024-10-25 19:01:54,932 - root - INFO - ******Verifying Login teste***********
+2024-10-25 19:02:02,956 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 19:02:02,956 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 19:02:02,956 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 19:02:02,956 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-25 19:02:02,956 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 12:59:23,285 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 12:59:23,285 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 12:59:23,285 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 12:59:23,285 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 12:59:23,285 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 12:59:24,246 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 12:59:24,246 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 12:59:24,246 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 12:59:24,246 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 12:59:24,246 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 12:59:31,110 - root - INFO - ************* Login succesful **********
+2024-10-26 12:59:31,110 - root - INFO - ************* Login succesful **********
+2024-10-26 12:59:31,110 - root - INFO - ************* Login succesful **********
+2024-10-26 12:59:31,110 - root - INFO - ************* Login succesful **********
+2024-10-26 12:59:31,110 - root - INFO - ************* Login succesful **********
+2024-10-26 12:59:31,111 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 12:59:31,111 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 12:59:31,111 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 12:59:31,111 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 12:59:31,111 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 12:59:38,091 - root - INFO - ************* Providing customer info **********
+2024-10-26 12:59:38,091 - root - INFO - ************* Providing customer info **********
+2024-10-26 12:59:38,091 - root - INFO - ************* Providing customer info **********
+2024-10-26 12:59:38,091 - root - INFO - ************* Providing customer info **********
+2024-10-26 12:59:38,091 - root - INFO - ************* Providing customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ************* Saving customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ************* Saving customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ************* Saving customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ************* Saving customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ************* Saving customer info **********
+2024-10-26 12:59:38,968 - root - INFO - ********* Add customer validation started *****************
+2024-10-26 12:59:38,968 - root - INFO - ********* Add customer validation started *****************
+2024-10-26 12:59:38,968 - root - INFO - ********* Add customer validation started *****************
+2024-10-26 12:59:38,968 - root - INFO - ********* Add customer validation started *****************
+2024-10-26 12:59:38,968 - root - INFO - ********* Add customer validation started *****************
+2024-10-26 12:59:39,257 - root - INFO - ********* Add customer Test Passed *********
+2024-10-26 12:59:39,257 - root - INFO - ********* Add customer Test Passed *********
+2024-10-26 12:59:39,257 - root - INFO - ********* Add customer Test Passed *********
+2024-10-26 12:59:39,257 - root - INFO - ********* Add customer Test Passed *********
+2024-10-26 12:59:39,257 - root - INFO - ********* Add customer Test Passed *********
+2024-10-26 12:59:39,317 - root - INFO - ******* Ending Add customer test **********
+2024-10-26 12:59:39,317 - root - INFO - ******* Ending Add customer test **********
+2024-10-26 12:59:39,317 - root - INFO - ******* Ending Add customer test **********
+2024-10-26 12:59:39,317 - root - INFO - ******* Ending Add customer test **********
+2024-10-26 12:59:39,317 - root - INFO - ******* Ending Add customer test **********
+2024-10-26 12:59:39,924 - root - INFO - ******Verifying Login teste***********
+2024-10-26 12:59:39,924 - root - INFO - ******Verifying Login teste***********
+2024-10-26 12:59:39,924 - root - INFO - ******Verifying Login teste***********
+2024-10-26 12:59:39,924 - root - INFO - ******Verifying Login teste***********
+2024-10-26 12:59:39,924 - root - INFO - ******Verifying Login teste***********
+2024-10-26 12:59:48,919 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 12:59:48,919 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 12:59:48,919 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 12:59:48,919 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 12:59:48,919 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 13:03:23,174 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:03:23,174 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:03:23,174 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:03:23,174 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:03:23,174 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:03:29,869 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:03:29,869 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:03:29,869 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:03:29,869 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:03:29,869 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:31:58,803 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 13:31:58,803 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 13:31:58,803 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 13:31:58,803 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 13:31:58,803 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\devar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-10-26 13:31:59,888 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:31:59,888 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:31:59,888 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:31:59,888 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:31:59,888 - root - INFO - ************* Test_003_AddCustomer **********
+2024-10-26 13:32:05,940 - root - INFO - ************* Login succesful **********
+2024-10-26 13:32:05,940 - root - INFO - ************* Login succesful **********
+2024-10-26 13:32:05,940 - root - INFO - ************* Login succesful **********
+2024-10-26 13:32:05,940 - root - INFO - ************* Login succesful **********
+2024-10-26 13:32:05,940 - root - INFO - ************* Login succesful **********
+2024-10-26 13:32:05,940 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 13:32:05,940 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 13:32:05,940 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 13:32:05,940 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 13:32:05,940 - root - INFO - ******* Starting Add Customer Test **********
+2024-10-26 13:32:10,991 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:32:10,991 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:32:10,991 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:32:10,991 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:32:10,991 - root - INFO - ******Verifying Login teste***********
+2024-10-26 13:32:19,070 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 13:32:19,070 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 13:32:19,070 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 13:32:19,070 - root - INFO - ******Verifying Login test PASSED***********
+2024-10-26 13:32:19,070 - root - INFO - ******Verifying Login test PASSED***********
